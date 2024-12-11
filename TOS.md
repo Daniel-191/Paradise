@@ -28,14 +28,14 @@ By using this bot, you agree to the following terms:
    - Users are prohibited from attempting to buy or sell virtual currency or game assets outside of the bot.
 
 7. **Dispute Resolution**
-   - These Terms shall be governed by the laws of [Your Country/Region].
+   - These Terms shall be governed by the laws of The United Kingdom.
    - Any disputes or issues related to bot performance, virtual currency, or user behavior should be reported to the bot owner for resolution.
 
 8. **User Warnings and Suspensions**
    - A warning system may be in place for violations of these terms. Users who violate these terms may have their access to the bot revoked without prior notice and will not be compensated for any lost virtual currency or in-game items.
 
 9. **Server Administrator Responsibilities**
-   - Server administrators are responsible for enforcing rules and using the bot responsibly within their servers. 
+   - Server administrators are responsible for enforcing rules and using the bot responsibly within their servers.
 
 10. **Indemnification**
    - Users agree to indemnify and hold harmless the bot owner from any claims, damages, or legal expenses arising from the user's violation of these terms or misuse of the bot.
