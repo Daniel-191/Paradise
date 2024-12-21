@@ -59,3 +59,25 @@ By using this bot, you agree to the following terms:
    - If a user is banned for violating the Terms of Service, they forfeit access to all purchased ranks and perks without refund.
    - Disputes regarding online store transactions should be directed to the bot owner through the support ticket system. Chargebacks or unauthorized disputes may result in a permanent ban.
    - Users must be of legal age or have parental/guardian consent to make purchases in the online store.
+
+15. **Website Usage**
+
+   - The website provided for digital purchases, hosted through Tebex Limited, must only be used for legitimate transactions related to the bot. Any fraudulent activities or misuse may result in account suspension or legal action.
+
+16. **Payment Security**
+
+   - All payments processed through the Tebex platform are secure. Users are responsible for ensuring their payment details are accurate and up to date. Any payment disputes must be handled through Tebex.
+
+17. **Transaction Confirmation**
+
+   - After completing a purchase, users will receive confirmation via Tebex. It is the user’s responsibility to keep a copy of the transaction details for future reference.
+
+18. **Data Collection by Tebex**
+
+   - Purchases made through Tebex may involve the collection of additional data as per their privacy policy. Users are advised to review Tebex's Privacy Policy to understand how their data will be used.
+
+19. **Service Availability**
+
+- Access to purchased items or perks depends on the bot's uptime. The bot owner is not liable for disruptions caused by server outages, maintenance, or other unforeseen events.
+
+We partner with Tebex Limited (www.tebex.io), who are the official merchant of digital content produced by us. If you wish to purchase licenses to use digital content we produce, you must do so through Tebex as our licensed reseller and merchant of record. In order to make any such purchase from Tebex, you must agree to their terms, available at https://checkout.tebex.io/terms. If you have any queries about a purchase made through Tebex, including but not limited to refund requests, technical issues or billing enquiries, you should contact Tebex support at https://www.tebex.io/contact/checkout in the first instance.
