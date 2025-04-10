@@ -1,83 +1,101 @@
-**Terms of Service**
+## **Terms of Service**
 
 By using this bot, you agree to the following terms:
 
-1. **Virtual Currency**
-   - All games and transactions within the bot are purely for entertainment purposes and use a **virtual currency** that holds no real-world value.
-   - No real money or assets can be won or lost.
+---
 
-2. **User Conduct**
-   - Users are prohibited from exploiting bugs, glitches, or vulnerabilities within the bot. Any such attempts will result in suspension or permanent bans.
-   - Any form of cheating or abuse of the bot’s systems is strictly prohibited.
-   - The use of macros, bots, or any automation tools to interact with the bot is strictly prohibited and will result in immediate suspension or bans.
-   - Using alternate accounts to bypass restrictions, gain unfair advantages, or manipulate game systems is forbidden.
-   - Any exploitation of glitches, unintended behaviors, or vulnerabilities in the bot is banned. Violators must appeal through the ticket system at [THIS LINK](https://discord.gg/vMcbru7qMV).
+### 1. **Virtual Currency**
+- All games and transactions within the bot are purely for entertainment purposes and use a **virtual currency** that holds no real-world value.
+- No real money, real assets, or guarantees of financial return are associated with the use of this bot.
 
-3. **Bot Usage**
-   - The bot is intended for users who want to enjoy gambling-themed games responsibly.
-   - Users acknowledge that these games may be addictive, and the bot owner takes no responsibility for any form of gambling addiction or negative impacts caused by frequent use.
+---
 
-4. **Limitation of Liability**
-   - The bot owner is not responsible for any loss of virtual currency or in-game assets.
-   - The bot owner is not responsible for the consequences of any user’s addiction or misuse of the bot’s features.
-   - The bot owner is not responsible for any issues or outages related to third-party services integrated into the bot.
+### 2. **User Conduct**
+- Exploiting bugs, glitches, or vulnerabilities is strictly prohibited and may result in suspension or permanent bans.
+- Cheating, automation (e.g. macros or bots), and abuse of systems is forbidden.
+- Alternate accounts used to bypass restrictions or gain unfair advantages will be punished.
+- Appeals must be submitted through the support ticket system at [THIS LINK](https://discord.gg/vMcbru7qMV).
 
-5. **Privacy and Data Collection**
-   - The bot may collect data such as Discord usernames, server data, and game activity for operational purposes. No personal or sensitive information will be collected or shared with third parties.
-   - If applicable, cookies or tracking mechanisms may be used to improve user experience.
+---
 
-6. **Refunds and Transactions**
-   - There will be no refunds or compensation for virtual currency or assets lost in the bot, as they hold no real value.
-   - Users are prohibited from attempting to buy or sell virtual currency or game assets outside of the bot.
+### 3. **Bot Usage**
+- This bot is intended for users who enjoy **gambling-themed games responsibly**.
+- Users acknowledge that such games can be **addictive**, and the bot owner is **not responsible** for any consequences related to overuse.
 
-7. **Dispute Resolution**
-   - These Terms shall be governed by the laws of THE UNITED KINGDOM.
-   - Any disputes or issues related to bot performance, virtual currency, or user behavior should be reported to the bot owner for resolution.
+---
 
-8. **User Warnings and Suspensions**
-   - A warning system may be in place for violations of these terms. Users who violate these terms may have their access to the bot revoked without prior notice and will not be compensated for any lost virtual currency or in-game items.
+### 4. **Limitation of Liability**
+- The bot owner is **not liable** for loss of virtual currency, in-game assets, or misuse of features.
+- The bot owner is **not responsible** for outages caused by Discord or other third-party services.
 
-9. **Server Administrator Responsibilities**
-   - Server administrators are responsible for enforcing rules and using the bot responsibly within their servers. 
+---
 
-10. **Indemnification**
-   - Users agree to indemnify and hold harmless the bot owner from any claims, damages, or legal expenses arising from the user's violation of these terms or misuse of the bot.
+### 5. **Privacy and Data Collection**
+- The bot may collect and store data such as Discord user IDs, usernames, and game activity for operational purposes.
+- No sensitive or personal data is collected or shared with third parties.
 
-11. **Age Requirement**
-   - Users must be of legal age according to their country or region’s laws to participate in gambling-themed activities. The bot is not responsible for enforcing age restrictions but will comply with Discord’s policies.
+---
 
-12. **Changes to Terms**
-   - The bot owner reserves the right to modify these Terms of Service at any time. Continued use of the bot signifies acceptance of the updated terms.
+### 6. **Refunds and Subscriptions**
+- Subscriptions and premium content are processed via **Patreon**.
+- **Refunds** are available **if necessary or required by law**. To request one, please contact support via the ticket system.
+- Chargebacks or unauthorized disputes may result in suspension from the bot and loss of access to perks.
+- Subscribed perks are **non-transferable** and tied to the **primary account** used for the subscription.
 
-13. **Termination**
-   - The bot owner reserves the right to terminate or suspend user access for any reason, including violations of these terms.
+---
 
-14. **Online Store and Purchases**
-   - All sales in the online store are final, and no refunds will be provided for digital goods unless required by law.
-   - Purchased items such as in-game ranks or perks are non-transferable and can only be used by the account that made the purchase.
-   - Users must use their primary Discord account to make purchases. Using alternate accounts to buy or redeem perks is not allowed and may result in revocation of purchased items without a refund.
-   - If a user is banned for violating the Terms of Service, they forfeit access to all purchased ranks and perks without refund.
-   - Disputes regarding online store transactions should be directed to the bot owner through the support ticket system. Chargebacks or unauthorized disputes may result in a permanent ban.
-   - Users must be of legal age or have parental/guardian consent to make purchases in the online store.
+### 7. **Trading & Selling Prohibited**
+- Selling, buying, or trading **virtual currency**, **game items**, or **in-game perks** (inside or outside of the bot) is **strictly prohibited**.
+- Violations may lead to a permanent ban and loss of all items, currency, or perks without refund.
 
-15. **Website Usage**
+---
 
-   - The website provided for digital purchases, hosted through Tebex Limited, must only be used for legitimate transactions related to the bot. Any fraudulent activities or misuse may result in account suspension or legal action.
+### 8. **Dispute Resolution**
+- These Terms are governed by the laws of the **United Kingdom**.
+- Issues or concerns should be raised directly to the bot owner via the support system.
 
-16. **Payment Security**
+---
 
-   - All payments processed through the Tebex platform are secure. Users are responsible for ensuring their payment details are accurate and up to date. Any payment disputes must be handled through Tebex.
+### 9. **User Warnings and Suspensions**
+- Users who violate these terms may be warned, suspended, or permanently banned without notice.
+- Violators forfeit access to virtual currency, in-game items, or perks without compensation.
 
-17. **Transaction Confirmation**
+---
 
-   - After completing a purchase, users will receive confirmation via Tebex. It is the user’s responsibility to keep a copy of the transaction details for future reference.
+### 10. **Server Administrator Responsibilities**
+- Server admins are expected to enforce fair use of the bot and uphold these terms within their communities.
 
-18. **Data Collection by Tebex**
+---
 
-   - Purchases made through Tebex may involve the collection of additional data as per their privacy policy. Users are advised to review Tebex's Privacy Policy to understand how their data will be used.
+### 11. **Indemnification**
+- Users agree to **indemnify and hold harmless** the bot owner from claims or damages resulting from misuse or violation of these terms.
 
-19. **Service Availability**
+---
 
-- Access to purchased items or perks depends on the bot's uptime. The bot owner is not liable for disruptions caused by server outages, maintenance, or other unforeseen events.
+### 12. **Age Requirement**
+- Users must meet the **legal age requirement for simulated gambling content** in their region.
+- The bot does not actively verify age but follows **Discord's age policies**.
 
-We partner with Tebex Limited (www.tebex.io), who are the official merchant of digital content produced by us. If you wish to purchase licenses to use digital content we produce, you must do so through Tebex as our licensed reseller and merchant of record. In order to make any such purchase from Tebex, you must agree to their terms, available at https://checkout.tebex.io/terms. If you have any queries about a purchase made through Tebex, including but not limited to refund requests, technical issues or billing enquiries, you should contact Tebex support at https://www.tebex.io/contact/checkout in the first instance.
+---
+
+### 13. **Changes to Terms**
+- The bot owner reserves the right to **modify these Terms of Service at any time**. Continued use indicates acceptance of any changes.
+
+---
+
+### 14. **Termination**
+- The bot owner may **suspend or terminate access** for any reason, including violations of these terms.
+
+---
+
+### 15. **Patreon & Subscription Benefits**
+- Subscription perks are delivered through **Patreon** and are available only to the **subscribed primary account**.
+- Benefits are **non-transferable** and may be revoked if terms are violated.
+- Selling or sharing access to perks or benefits is not allowed.
+- By subscribing, users agree to Patreon’s own [Terms of Use](https://www.patreon.com/policy/terms-of-use) and [Privacy Policy](https://www.patreon.com/policy/privacy-policy).
+
+---
+
+### 16. **Service Availability**
+- Access to perks depends on the bot’s uptime and functionality.
+- The bot owner is not liable for interruptions due to maintenance, technical issues, or outages beyond their control.
