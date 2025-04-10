@@ -7,7 +7,8 @@ This Privacy Policy outlines how Paradise ("we," "our," or "us") collects, uses,
 1. **Information We Collect**
    - **User Data**: We may collect data such as your Discord username, server information, and game activity while using the bot.
    - **Usage Data**: We may collect information on how the bot is accessed and used, including interactions with commands and features.
-   - **Third-Party Integrations**: We may share your data with third-party services, such as [list APIs or services], for the purpose of improving user experience, providing game functionality, or processing specific requests. These third parties are subject to their own privacy policies.
+   - **Third-Party Integrations**: We may share your data with third-party services such as APIs like Tenor, Reddit, or Patreon, used to provide game functionality, retrieve content, or process subscriptions.
+, for the purpose of improving user experience, providing game functionality, or processing specific requests. These third parties are subject to their own privacy policies.
    - **Cookies and Tracking Details**: We use cookies and similar tracking technologies to enhance your experience with our services, such as remembering your preferences, session tracking, or analyzing usage patterns. You may adjust your browser settings to block or delete cookies.
 
 2. **How We Use Your Information**
