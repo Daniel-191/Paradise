@@ -20,7 +20,7 @@ By using this bot, you agree to the following terms:
 - Using the /rob feature to unfairly target users by sending money to others or alternate accounts to bait or manipulate robbing is not allowed.
 - Sending money to bypass /protection fees or avoid being robbed is strictly prohibited.
 - Violations may result in bans or confiscation of funds.
-- Appeals must be submitted through the support ticket system at THIS LINK.
+- Appeals must be submitted through the support ticket system at [THIS LINK](https://discord.gg/JX3zFYPY6b).
 
 ---
 
@@ -31,6 +31,7 @@ By using this bot, you agree to the following terms:
 - Attempting to circumvent this policy through multiple transactions or agreements outside the bot will be considered a violation.
 - Currency transfers should only be used for legitimate gifts or trades of in-game items when permitted.
 - The bot administration reserves the right to reverse or nullify transactions that appear to violate these terms.
+- **If users engage in loans despite this prohibition, bot staff and administrators are not responsible for any disputes, losses, or issues that may arise from such unauthorized arrangements.**
 
 ---
 
