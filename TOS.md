@@ -1,6 +1,6 @@
 # Paradise Bot Terms of Service
 
-**Last Updated: July 25, 2025**
+**Last Updated: August 15, 2025**
 
 By using this bot, you agree to the following terms:
 
@@ -18,9 +18,13 @@ By using this bot, you agree to the following terms:
 * Exploiting bugs, glitches, or vulnerabilities is strictly prohibited and may result in suspension or permanent bans.
 * Cheating, automation (e.g. macros or bots), and abuse of systems is forbidden.
 * Alternate accounts used to bypass restrictions or gain unfair advantages will be punished.
+* Sharing your Discord account with another person for the purpose of gaining advantages, farming currency, or bypassing restrictions is prohibited.
 * **Rob teaming**—such as coordinating with others to rob a single user and split profits—is **not allowed**.
 * Sending money to alternate or other users to **minimize losses from robbing** is considered **teaming** and is prohibited.
 * Using the `/rob` feature to unfairly target users through manipulation or baiting is also forbidden.
+* **Scamming other users**—including but not limited to false promises of trades, fake item offers, or fraudulent currency transfers—is strictly prohibited and will result in confiscation of assets and possible permanent bans.
+* Attempting to bypass bans, suspensions, or other restrictions by using alternate accounts, VPNs, or other methods is strictly forbidden and will result in further action.
+* Repeatedly using bot commands in a way that intentionally lags, crashes, or disrupts the bot’s normal operation is prohibited.
 * Violations may result in bans or confiscation of funds.
 * Appeals must be submitted through the support ticket system at [this link](https://discord.gg/JX3zFYPY6b).
 
@@ -37,7 +41,17 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 4. Bot Usage
+## 4. Wagers
+
+* Wagers between users are allowed, but participants are responsible for ensuring the terms are clear and agreed upon before proceeding.
+* You must have **clear evidence** of the wager taking place (e.g., screenshots of agreement, proof of payment) in case a dispute arises.
+* If someone refuses to pay up or attempts to scam you in a wager, contact the bot staff immediately via the [Official Paradise Bot Discord Server](https://discord.gg/JX3zFYPY6b).
+* The bot administration may intervene in cases where there is clear and verifiable proof of a wager and a confirmed scam.
+* Without valid proof, bot staff cannot guarantee the recovery of lost currency or enforcement of the wager.
+
+---
+
+## 5. Bot Usage
 
 * This bot is intended for users who enjoy gambling-themed games responsibly.
 * Users acknowledge that such games can be addictive, and the bot owner is not responsible for any consequences related to overuse.
@@ -45,7 +59,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 5. Limitation of Liability
+## 6. Limitation of Liability
 
 * The bot owner is not liable for loss of virtual currency, in-game assets, or misuse of features.
 * The bot owner is not responsible for outages caused by Discord or other third-party services.
@@ -53,7 +67,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 6. Privacy and Data Collection
+## 7. Privacy and Data Collection
 
 * The bot may collect and store data such as Discord user IDs, usernames, and game activity for operational purposes.
 * No sensitive or personal data is collected or shared with third parties.
@@ -62,7 +76,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 7. Refunds and Subscriptions
+## 8. Refunds and Subscriptions
 
 * Subscriptions and premium content are processed via Patreon.
 * Refunds are available if necessary or required by law. To request one, please contact support via the ticket system.
@@ -71,15 +85,16 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 8. Trading & Selling Prohibited
+## 9. Trading & Selling Prohibited
 
 * Selling, buying, or trading virtual currency, game items, or in-game perks (inside or outside of the bot) is strictly prohibited.
+* Scamming or attempting to scam users in relation to trades, perks, or currency—whether involving real money or virtual currency—is strictly forbidden.
 * Violations may lead to a permanent ban and loss of all items, currency, or perks without refund.
 * This includes trades or sales for real-world currency, goods, services, or digital assets outside the bot.
 
 ---
 
-## 9. Dispute Resolution
+## 10. Dispute Resolution
 
 * These Terms are governed by the laws of the United Kingdom.
 * Issues or concerns should be raised directly to the bot owner via the support system.
@@ -87,7 +102,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 10. User Warnings and Suspensions
+## 11. User Warnings and Suspensions
 
 * Users who violate these terms may be warned, suspended, or permanently banned without notice.
 * Violators forfeit access to virtual currency, in-game items, or perks without compensation.
@@ -95,7 +110,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 11. Server Administrator Responsibilities
+## 12. Server Administrator Responsibilities
 
 * Server admins are expected to enforce fair use of the bot and uphold these terms within their communities.
 * Server owners should report violations they observe to the bot support team.
@@ -103,13 +118,13 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 12. Indemnification
+## 13. Indemnification
 
 * Users agree to indemnify and hold harmless the bot owner from claims or damages resulting from misuse or violation of these terms.
 
 ---
 
-## 13. Age Requirement
+## 14. Age Requirement
 
 * Users must meet the legal age requirement for simulated gambling content in their region.
 * The bot does not actively verify age but follows Discord's age policies.
@@ -117,7 +132,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 14. Changes to Terms
+## 15. Changes to Terms
 
 * The bot owner reserves the right to modify these Terms of Service at any time. Continued use indicates acceptance of any changes.
 * Significant changes will be announced through official channels.
@@ -125,14 +140,14 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 15. Termination
+## 16. Termination
 
 * The bot owner may suspend or terminate access for any reason, including violations of these terms.
 * Termination may occur without warning for severe violations.
 
 ---
 
-## 16. Patreon & Subscription Benefits
+## 17. Patreon & Subscription Benefits
 
 * Subscription perks are delivered through Patreon and are available only to the subscribed primary account.
 * Benefits are non-transferable and may be revoked if terms are violated.
@@ -141,7 +156,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 17. Service Availability
+## 18. Service Availability
 
 * Access to perks depends on the bot's uptime and functionality.
 * The bot owner is not liable for interruptions due to maintenance, technical issues, or outages beyond their control.
@@ -149,7 +164,7 @@ By using this bot, you agree to the following terms:
 
 ---
 
-## 18. Contact Information
+## 19. Contact Information
 
 * Contact us in the [Official Paradise Bot Discord Server](https://discord.gg/JX3zFYPY6b), and open a ticket based on your issue.
 
